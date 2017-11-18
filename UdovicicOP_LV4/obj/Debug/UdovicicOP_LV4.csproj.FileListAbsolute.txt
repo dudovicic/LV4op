@@ -1,0 +1,13 @@
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\bin\Debug\UdovicicOP_LV4.exe.config
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\bin\Debug\Northwind.MDB
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\bin\Debug\UdovicicOP_LV4.exe
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\bin\Debug\UdovicicOP_LV4.pdb
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.Form1.resources
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.Properties.Resources.resources
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.csproj.GenerateResource.Cache
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.exe
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.pdb
+C:\Users\ACER7\Desktop\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.csprojResolveAssemblyReference.cache
+C:\Users\ACER7\Desktop\objektno programiranje\UdovicicOP_LV4\UdovicicOP_LV4\bin\Debug\UdovicicOP_LV4.exe.config
+C:\Users\ACER7\Desktop\objektno programiranje\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.exe
+C:\Users\ACER7\Desktop\objektno programiranje\UdovicicOP_LV4\UdovicicOP_LV4\obj\Debug\UdovicicOP_LV4.pdb
